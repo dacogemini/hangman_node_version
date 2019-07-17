@@ -14,7 +14,7 @@ A hangman game develped with Node.js and empowered using JavaScript constructors
 
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 
-Built With:
+- Built With:
 Node.js
 Visual Studio Code - Text Editor
 Terminal/Git Bash
