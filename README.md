@@ -12,7 +12,6 @@ A hangman game develped with Node.js and empowered using JavaScript constructors
 3. After dependencies are updated, type the following:
 ```node index.js```
 
-Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 
 Built With:
